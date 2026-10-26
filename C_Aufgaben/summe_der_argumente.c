@@ -12,6 +12,10 @@ int summiere(int anzahl, char *werte[]) {
     return summe;
 }
 
+int maximum() {
+    
+}
+
 int main (int argc, char *argv[]) {
 
     printf("Summe: %d\n", summiere(argc - 1, argv + 1));

@@ -25,7 +25,7 @@ int main () {
     for (int i = 0; i <= 6; i++) {
         int ergebnis = fakultaet(i);
 
-    printf("Die Fakultät von %d ist %d\n", i, ergebnis);
+    printf("Die Fakultaet von %d ist %d\n", i, ergebnis);
 }
 
     printf("Ergebnis: %d\n", potenz(2, 10));
