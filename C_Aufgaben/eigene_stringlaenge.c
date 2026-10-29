@@ -4,8 +4,7 @@
 size_t meine_strlen(const char *s) {
     size_t i = 0;
 
-    for (i = 0; s[i] != '\0'; i++ ) {
-    }
+    for (i = 0; s[i] != '\0'; i++ ) 
     return i;
 }
 
